@@ -1,6 +1,6 @@
 # Projeto Criando seu Primeiro Site Completo com HTML
 
-> ste desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo..
+> Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo..
 
 ### Objetivos
 
